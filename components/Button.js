@@ -83,6 +83,7 @@ const styles = StyleSheet.create({
     shadowColor: theme.colors.black,
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
+    elevation: 2,
     shadowRadius: 10
   },
   accent: { backgroundColor: theme.colors.accent },

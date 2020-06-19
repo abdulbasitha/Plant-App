@@ -6,7 +6,8 @@ import React, { Component } from "react";
 import Navigation from './navigation';
 import {Block} from './components';
 // import * as constants from './constants';
-
+import { YellowBox } from 'react-native';
+console.disableYellowBox = true;
 import {
   StyleSheet
 } from "react-native";

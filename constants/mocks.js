@@ -40,7 +40,8 @@ const categories = [
       tags: ["products", "shop"],
       count: 47,
       image: require("../assets/icons/fertilizers.png")
-    }
+    },
+    
   ];
 
   const products = [
