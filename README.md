@@ -25,7 +25,16 @@ Project was created using CLI. If you want standard native project please run fo
 
 
 ## Preview
-
+<div>
+<img src="https://github.com/abdulbasitha/Planet-App/blob/master/preview/1.png" width="30%" height="30%">
+<img src="https://github.com/abdulbasitha/Planet-App/blob/master/preview/2.png" width="30%" height="30%">
+ <img src="https://github.com/abdulbasitha/Planet-App/blob/master/preview/3.png" width="30%" height="30%">
+ </div>
+ <div>
+  <img src="https://github.com/abdulbasitha/Planet-App/blob/master/preview/4.png" width="30%" height="30%">
+   <img src="https://github.com/abdulbasitha/Planet-App/blob/master/preview/5.png" width="30%" height="30%">
+   <img src="https://github.com/abdulbasitha/Planet-App/blob/master/preview/6.png" width="30%" height="30%">
+ </div>
 
 
 
