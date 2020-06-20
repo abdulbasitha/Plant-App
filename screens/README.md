@@ -25,7 +25,7 @@ Project was created using CLI. If you want standard native project please run fo
 
 
 ## Preview
-
+![alt text](https://github.com/abdulbasitha/Planet-App/blob/master/preview?raw=true)
 
 
 
