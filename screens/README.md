@@ -1,10 +1,5 @@
 # React Native Simple Planet-App Template
 
-
-
-
-
-
 ## How to use?
 
 1. Download or clone this repo.
