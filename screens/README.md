@@ -1,10 +1,6 @@
-# Planet-App
+# React Native Simple Planet-App Template
 
-# React Native Simple Login Template
 
-More templates at [ReactNativeMarket.com](http://reactnativemarket.com/) 💖
-
-**react-native-login-template** is proudly sponsored by
 
 
 
@@ -35,11 +31,7 @@ Project was created using CLI. If you want standard native project please run fo
 
 ## Preview
 
-![homescreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/homescreen.png)
-![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/login.png)
-![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/register.png)
-![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/forgot.png)
-![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/dashboard.png)
+
 
 
 
