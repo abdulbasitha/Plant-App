@@ -1,4 +1,4 @@
-# React Native Simple Planet-App Template
+# React Native Simple Plant-App Template
 
 ## How to use?
 
